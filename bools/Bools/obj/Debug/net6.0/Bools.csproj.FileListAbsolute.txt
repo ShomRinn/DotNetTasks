@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\bools\Bools\bin\Debug\net6.0\Bools.deps.json
+C:\Users\bachi\Source\Repos\bools\Bools\bin\Debug\net6.0\Bools.dll
+C:\Users\bachi\Source\Repos\bools\Bools\bin\Debug\net6.0\Bools.pdb
+C:\Users\bachi\Source\Repos\bools\Bools\obj\Debug\net6.0\Bools.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\bools\Bools\obj\Debug\net6.0\Bools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\bools\Bools\obj\Debug\net6.0\Bools.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\bools\Bools\obj\Debug\net6.0\Bools.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\bools\Bools\obj\Debug\net6.0\Bools.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\bools\Bools\obj\Debug\net6.0\Bools.dll
+C:\Users\bachi\Source\Repos\bools\Bools\obj\Debug\net6.0\refint\Bools.dll
+C:\Users\bachi\Source\Repos\bools\Bools\obj\Debug\net6.0\Bools.pdb
+C:\Users\bachi\Source\Repos\bools\Bools\obj\Debug\net6.0\ref\Bools.dll

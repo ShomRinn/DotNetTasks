@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EGh1aZxOn0crNM8lNDEMdtSQ2tnqGd93JCYfdnwkvTjYN7aZ7X/FYTdV6EHmRNONNmCWLyg01v1Y0ZnFuqvPdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\gcd\\Gcd\\Gcd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

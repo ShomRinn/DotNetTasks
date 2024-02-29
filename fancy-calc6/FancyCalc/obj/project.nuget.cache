@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9bSPwuMoGQCi5XSQvBjexp62Tvt4UrF4753VRj2caAc43sQqQ5ZsTpZBfAO2rXiTb5FjQAsbsYlynlwo+GsGgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\fancy-calc6\\FancyCalc\\FancyCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

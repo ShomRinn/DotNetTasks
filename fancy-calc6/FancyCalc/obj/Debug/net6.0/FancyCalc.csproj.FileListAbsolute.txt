@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\fancy-calc6\FancyCalc\bin\Debug\net6.0\FancyCalc.deps.json
+C:\Users\bachi\Source\Repos\fancy-calc6\FancyCalc\bin\Debug\net6.0\FancyCalc.dll
+C:\Users\bachi\Source\Repos\fancy-calc6\FancyCalc\bin\Debug\net6.0\FancyCalc.pdb
+C:\Users\bachi\Source\Repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\FancyCalc.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\FancyCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\FancyCalc.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\FancyCalc.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\FancyCalc.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\FancyCalc.dll
+C:\Users\bachi\Source\Repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\refint\FancyCalc.dll
+C:\Users\bachi\Source\Repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\FancyCalc.pdb
+C:\Users\bachi\Source\Repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\ref\FancyCalc.dll

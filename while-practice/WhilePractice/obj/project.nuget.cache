@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hkkXE9ZNkydnJ6EG+g2u7ePEfO7y1NjqBDvFhXjDTM1KyC/Tro3sWpANV11uixH8AB4h5AM8hTBVMA8+BGShqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\while-practice\\WhilePractice\\WhilePractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\selection-statments6\SelectionStatements\bin\Debug\net6.0\SelectionStatements.deps.json
+C:\Users\bachi\Source\Repos\selection-statments6\SelectionStatements\bin\Debug\net6.0\SelectionStatements.dll
+C:\Users\bachi\Source\Repos\selection-statments6\SelectionStatements\bin\Debug\net6.0\SelectionStatements.pdb
+C:\Users\bachi\Source\Repos\selection-statments6\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\selection-statments6\SelectionStatements\obj\Debug\net6.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\selection-statments6\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\selection-statments6\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\selection-statments6\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\selection-statments6\SelectionStatements\obj\Debug\net6.0\SelectionStatements.dll
+C:\Users\bachi\Source\Repos\selection-statments6\SelectionStatements\obj\Debug\net6.0\refint\SelectionStatements.dll
+C:\Users\bachi\Source\Repos\selection-statments6\SelectionStatements\obj\Debug\net6.0\SelectionStatements.pdb
+C:\Users\bachi\Source\Repos\selection-statments6\SelectionStatements\obj\Debug\net6.0\ref\SelectionStatements.dll

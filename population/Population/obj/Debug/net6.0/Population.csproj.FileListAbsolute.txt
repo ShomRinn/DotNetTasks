@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\population\Population\bin\Debug\net6.0\Population.deps.json
+C:\Users\bachi\Source\Repos\population\Population\bin\Debug\net6.0\Population.dll
+C:\Users\bachi\Source\Repos\population\Population\bin\Debug\net6.0\Population.pdb
+C:\Users\bachi\Source\Repos\population\Population\obj\Debug\net6.0\Population.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\population\Population\obj\Debug\net6.0\Population.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\population\Population\obj\Debug\net6.0\Population.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\population\Population\obj\Debug\net6.0\Population.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\population\Population\obj\Debug\net6.0\Population.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\population\Population\obj\Debug\net6.0\Population.dll
+C:\Users\bachi\Source\Repos\population\Population\obj\Debug\net6.0\refint\Population.dll
+C:\Users\bachi\Source\Repos\population\Population\obj\Debug\net6.0\Population.pdb
+C:\Users\bachi\Source\Repos\population\Population\obj\Debug\net6.0\ref\Population.dll

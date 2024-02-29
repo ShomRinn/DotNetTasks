@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\numeric-conversions6\NumericConversions\bin\Debug\net6.0\NumericConversions.deps.json
+C:\Users\bachi\Source\Repos\numeric-conversions6\NumericConversions\bin\Debug\net6.0\NumericConversions.dll
+C:\Users\bachi\Source\Repos\numeric-conversions6\NumericConversions\bin\Debug\net6.0\NumericConversions.pdb
+C:\Users\bachi\Source\Repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\NumericConversions.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\NumericConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\NumericConversions.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\NumericConversions.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\NumericConversions.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\NumericConversions.dll
+C:\Users\bachi\Source\Repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\refint\NumericConversions.dll
+C:\Users\bachi\Source\Repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\NumericConversions.pdb
+C:\Users\bachi\Source\Repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\ref\NumericConversions.dll

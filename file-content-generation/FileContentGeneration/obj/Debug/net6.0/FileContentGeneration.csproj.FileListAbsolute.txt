@@ -1,0 +1,12 @@
+C:\Users\bachi\source\repos\file-content-generation\FileContentGeneration\bin\Debug\net6.0\FileContentGeneration.deps.json
+C:\Users\bachi\source\repos\file-content-generation\FileContentGeneration\bin\Debug\net6.0\FileContentGeneration.dll
+C:\Users\bachi\source\repos\file-content-generation\FileContentGeneration\bin\Debug\net6.0\FileContentGeneration.pdb
+C:\Users\bachi\source\repos\file-content-generation\FileContentGeneration\obj\Debug\net6.0\FileContentGeneration.csproj.AssemblyReference.cache
+C:\Users\bachi\source\repos\file-content-generation\FileContentGeneration\obj\Debug\net6.0\FileContentGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\source\repos\file-content-generation\FileContentGeneration\obj\Debug\net6.0\FileContentGeneration.AssemblyInfoInputs.cache
+C:\Users\bachi\source\repos\file-content-generation\FileContentGeneration\obj\Debug\net6.0\FileContentGeneration.AssemblyInfo.cs
+C:\Users\bachi\source\repos\file-content-generation\FileContentGeneration\obj\Debug\net6.0\FileContentGeneration.csproj.CoreCompileInputs.cache
+C:\Users\bachi\source\repos\file-content-generation\FileContentGeneration\obj\Debug\net6.0\FileContentGeneration.dll
+C:\Users\bachi\source\repos\file-content-generation\FileContentGeneration\obj\Debug\net6.0\refint\FileContentGeneration.dll
+C:\Users\bachi\source\repos\file-content-generation\FileContentGeneration\obj\Debug\net6.0\FileContentGeneration.pdb
+C:\Users\bachi\source\repos\file-content-generation\FileContentGeneration\obj\Debug\net6.0\ref\FileContentGeneration.dll

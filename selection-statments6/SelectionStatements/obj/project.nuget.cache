@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ia9HujQWM/2kekZ8+kBtFoKDdMzStH2mfjeECT2ZmXhqjuGEauIdfv0Zn1OPNSJvpPJHSJnDyLWtPfQVGJqChQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\selection-statments6\\SelectionStatements\\SelectionStatements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
