@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+jb2jCNyR9nbEe9ssDmO59F3fYqP4SVGnTnCTtw9u2n7ulE/7CkXm7TH0wdR7QDcmIdHIZsy9m1CoXAdT/TRFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\type-of-sequence6\\Numbers\\Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

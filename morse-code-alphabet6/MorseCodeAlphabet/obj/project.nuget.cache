@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uK4HSqEnmAvxvIX9i3jx2qwdc9CEjewr+0O2Po5uGyX2sSrcnzqLTOuZtazoiC0nBHqJmmWSlT0cMdmNMe9kMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\morse-code-alphabet6\\MorseCodeAlphabet\\MorseCodeAlphabet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

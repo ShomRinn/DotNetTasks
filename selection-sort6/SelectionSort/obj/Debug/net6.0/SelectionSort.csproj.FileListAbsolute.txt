@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\selection-sort6\SelectionSort\bin\Debug\net6.0\SelectionSort.deps.json
+C:\Users\bachi\Source\Repos\selection-sort6\SelectionSort\bin\Debug\net6.0\SelectionSort.dll
+C:\Users\bachi\Source\Repos\selection-sort6\SelectionSort\bin\Debug\net6.0\SelectionSort.pdb
+C:\Users\bachi\Source\Repos\selection-sort6\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\selection-sort6\SelectionSort\obj\Debug\net6.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\selection-sort6\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\selection-sort6\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\selection-sort6\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\selection-sort6\SelectionSort\obj\Debug\net6.0\SelectionSort.dll
+C:\Users\bachi\Source\Repos\selection-sort6\SelectionSort\obj\Debug\net6.0\refint\SelectionSort.dll
+C:\Users\bachi\Source\Repos\selection-sort6\SelectionSort\obj\Debug\net6.0\SelectionSort.pdb
+C:\Users\bachi\Source\Repos\selection-sort6\SelectionSort\obj\Debug\net6.0\ref\SelectionSort.dll

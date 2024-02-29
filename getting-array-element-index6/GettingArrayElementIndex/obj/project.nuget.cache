@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QEdMWNSkk1um06D0LgChBMUXkFp03uBRsfgXG3mmD2gXc8vXH3nEYG/gOQNOZmcuk3iuTNyi6ezBcgkSoVQwNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\getting-array-element-index6\\GettingArrayElementIndex\\GettingArrayElementIndex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\bachi\source\repos\strings\Strings\bin\Debug\net6.0\Strings.deps.json
+C:\Users\bachi\source\repos\strings\Strings\bin\Debug\net6.0\Strings.dll
+C:\Users\bachi\source\repos\strings\Strings\bin\Debug\net6.0\Strings.pdb
+C:\Users\bachi\source\repos\strings\Strings\obj\Debug\net6.0\Strings.csproj.AssemblyReference.cache
+C:\Users\bachi\source\repos\strings\Strings\obj\Debug\net6.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\source\repos\strings\Strings\obj\Debug\net6.0\Strings.AssemblyInfoInputs.cache
+C:\Users\bachi\source\repos\strings\Strings\obj\Debug\net6.0\Strings.AssemblyInfo.cs
+C:\Users\bachi\source\repos\strings\Strings\obj\Debug\net6.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\bachi\source\repos\strings\Strings\obj\Debug\net6.0\Strings.dll
+C:\Users\bachi\source\repos\strings\Strings\obj\Debug\net6.0\refint\Strings.dll
+C:\Users\bachi\source\repos\strings\Strings\obj\Debug\net6.0\Strings.pdb
+C:\Users\bachi\source\repos\strings\Strings\obj\Debug\net6.0\ref\Strings.dll

@@ -1,0 +1,12 @@
+C:\Users\bachi\source\repos\recursion-palindromic-number\PalindromicNumber\bin\Debug\net6.0\PalindromicNumber.deps.json
+C:\Users\bachi\source\repos\recursion-palindromic-number\PalindromicNumber\bin\Debug\net6.0\PalindromicNumber.dll
+C:\Users\bachi\source\repos\recursion-palindromic-number\PalindromicNumber\bin\Debug\net6.0\PalindromicNumber.pdb
+C:\Users\bachi\source\repos\recursion-palindromic-number\PalindromicNumber\obj\Debug\net6.0\PalindromicNumber.csproj.AssemblyReference.cache
+C:\Users\bachi\source\repos\recursion-palindromic-number\PalindromicNumber\obj\Debug\net6.0\PalindromicNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\source\repos\recursion-palindromic-number\PalindromicNumber\obj\Debug\net6.0\PalindromicNumber.AssemblyInfoInputs.cache
+C:\Users\bachi\source\repos\recursion-palindromic-number\PalindromicNumber\obj\Debug\net6.0\PalindromicNumber.AssemblyInfo.cs
+C:\Users\bachi\source\repos\recursion-palindromic-number\PalindromicNumber\obj\Debug\net6.0\PalindromicNumber.csproj.CoreCompileInputs.cache
+C:\Users\bachi\source\repos\recursion-palindromic-number\PalindromicNumber\obj\Debug\net6.0\PalindromicNumber.dll
+C:\Users\bachi\source\repos\recursion-palindromic-number\PalindromicNumber\obj\Debug\net6.0\refint\PalindromicNumber.dll
+C:\Users\bachi\source\repos\recursion-palindromic-number\PalindromicNumber\obj\Debug\net6.0\PalindromicNumber.pdb
+C:\Users\bachi\source\repos\recursion-palindromic-number\PalindromicNumber\obj\Debug\net6.0\ref\PalindromicNumber.dll

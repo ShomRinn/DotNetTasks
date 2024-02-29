@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\jagged-arrays6\JaggedArrays\bin\Debug\net6.0\JaggedArrays.deps.json
+C:\Users\bachi\Source\Repos\jagged-arrays6\JaggedArrays\bin\Debug\net6.0\JaggedArrays.dll
+C:\Users\bachi\Source\Repos\jagged-arrays6\JaggedArrays\bin\Debug\net6.0\JaggedArrays.pdb
+C:\Users\bachi\Source\Repos\jagged-arrays6\JaggedArrays\obj\Debug\net6.0\JaggedArrays.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\jagged-arrays6\JaggedArrays\obj\Debug\net6.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\jagged-arrays6\JaggedArrays\obj\Debug\net6.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\jagged-arrays6\JaggedArrays\obj\Debug\net6.0\JaggedArrays.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\jagged-arrays6\JaggedArrays\obj\Debug\net6.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\jagged-arrays6\JaggedArrays\obj\Debug\net6.0\JaggedArrays.dll
+C:\Users\bachi\Source\Repos\jagged-arrays6\JaggedArrays\obj\Debug\net6.0\refint\JaggedArrays.dll
+C:\Users\bachi\Source\Repos\jagged-arrays6\JaggedArrays\obj\Debug\net6.0\JaggedArrays.pdb
+C:\Users\bachi\Source\Repos\jagged-arrays6\JaggedArrays\obj\Debug\net6.0\ref\JaggedArrays.dll

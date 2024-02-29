@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3jb0BfKbInPCxuNl2yY/ApAcMs3qVnejqr01xGdsfMp91Lo1r8wExtC8XCtz5Q7CXo6v0U/A+UK0uS/ijWnrzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\recursion-looking-for-array-elements\\LookingForArrayElements\\LookingForArrayElements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

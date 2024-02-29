@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\looking-for-array-elements6\LookingForArrayElements\bin\Debug\net6.0\LookingForArrayElements.deps.json
+C:\Users\bachi\Source\Repos\looking-for-array-elements6\LookingForArrayElements\bin\Debug\net6.0\LookingForArrayElements.dll
+C:\Users\bachi\Source\Repos\looking-for-array-elements6\LookingForArrayElements\bin\Debug\net6.0\LookingForArrayElements.pdb
+C:\Users\bachi\Source\Repos\looking-for-array-elements6\LookingForArrayElements\obj\Debug\net6.0\LookingForArrayElements.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\looking-for-array-elements6\LookingForArrayElements\obj\Debug\net6.0\LookingForArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\looking-for-array-elements6\LookingForArrayElements\obj\Debug\net6.0\LookingForArrayElements.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\looking-for-array-elements6\LookingForArrayElements\obj\Debug\net6.0\LookingForArrayElements.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\looking-for-array-elements6\LookingForArrayElements\obj\Debug\net6.0\LookingForArrayElements.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\looking-for-array-elements6\LookingForArrayElements\obj\Debug\net6.0\LookingForArrayElements.dll
+C:\Users\bachi\Source\Repos\looking-for-array-elements6\LookingForArrayElements\obj\Debug\net6.0\refint\LookingForArrayElements.dll
+C:\Users\bachi\Source\Repos\looking-for-array-elements6\LookingForArrayElements\obj\Debug\net6.0\LookingForArrayElements.pdb
+C:\Users\bachi\Source\Repos\looking-for-array-elements6\LookingForArrayElements\obj\Debug\net6.0\ref\LookingForArrayElements.dll

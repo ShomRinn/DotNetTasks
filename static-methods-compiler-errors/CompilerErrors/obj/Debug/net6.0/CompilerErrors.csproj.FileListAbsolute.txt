@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\static-methods-compiler-errors\CompilerErrors\bin\Debug\net6.0\CompilerErrors.deps.json
+C:\Users\bachi\Source\Repos\static-methods-compiler-errors\CompilerErrors\bin\Debug\net6.0\CompilerErrors.dll
+C:\Users\bachi\Source\Repos\static-methods-compiler-errors\CompilerErrors\bin\Debug\net6.0\CompilerErrors.pdb
+C:\Users\bachi\Source\Repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\CompilerErrors.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\CompilerErrors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\CompilerErrors.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\CompilerErrors.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\CompilerErrors.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\CompilerErrors.dll
+C:\Users\bachi\Source\Repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\refint\CompilerErrors.dll
+C:\Users\bachi\Source\Repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\CompilerErrors.pdb
+C:\Users\bachi\Source\Repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\ref\CompilerErrors.dll

@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\getting-array-element-index6\GettingArrayElementIndex\bin\Debug\net6.0\GettingArrayElementIndex.deps.json
+C:\Users\bachi\Source\Repos\getting-array-element-index6\GettingArrayElementIndex\bin\Debug\net6.0\GettingArrayElementIndex.dll
+C:\Users\bachi\Source\Repos\getting-array-element-index6\GettingArrayElementIndex\bin\Debug\net6.0\GettingArrayElementIndex.pdb
+C:\Users\bachi\Source\Repos\getting-array-element-index6\GettingArrayElementIndex\obj\Debug\net6.0\GettingArrayElementIndex.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\getting-array-element-index6\GettingArrayElementIndex\obj\Debug\net6.0\GettingArrayElementIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\getting-array-element-index6\GettingArrayElementIndex\obj\Debug\net6.0\GettingArrayElementIndex.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\getting-array-element-index6\GettingArrayElementIndex\obj\Debug\net6.0\GettingArrayElementIndex.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\getting-array-element-index6\GettingArrayElementIndex\obj\Debug\net6.0\GettingArrayElementIndex.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\getting-array-element-index6\GettingArrayElementIndex\obj\Debug\net6.0\GettingArrayElementIndex.dll
+C:\Users\bachi\Source\Repos\getting-array-element-index6\GettingArrayElementIndex\obj\Debug\net6.0\refint\GettingArrayElementIndex.dll
+C:\Users\bachi\Source\Repos\getting-array-element-index6\GettingArrayElementIndex\obj\Debug\net6.0\GettingArrayElementIndex.pdb
+C:\Users\bachi\Source\Repos\getting-array-element-index6\GettingArrayElementIndex\obj\Debug\net6.0\ref\GettingArrayElementIndex.dll

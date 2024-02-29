@@ -1,0 +1,12 @@
+C:\Users\bachi\source\repos\bit-operations\BitOperations\bin\Debug\net6.0\BitOperations.deps.json
+C:\Users\bachi\source\repos\bit-operations\BitOperations\bin\Debug\net6.0\BitOperations.dll
+C:\Users\bachi\source\repos\bit-operations\BitOperations\bin\Debug\net6.0\BitOperations.pdb
+C:\Users\bachi\source\repos\bit-operations\BitOperations\obj\Debug\net6.0\BitOperations.csproj.AssemblyReference.cache
+C:\Users\bachi\source\repos\bit-operations\BitOperations\obj\Debug\net6.0\BitOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\source\repos\bit-operations\BitOperations\obj\Debug\net6.0\BitOperations.AssemblyInfoInputs.cache
+C:\Users\bachi\source\repos\bit-operations\BitOperations\obj\Debug\net6.0\BitOperations.AssemblyInfo.cs
+C:\Users\bachi\source\repos\bit-operations\BitOperations\obj\Debug\net6.0\BitOperations.csproj.CoreCompileInputs.cache
+C:\Users\bachi\source\repos\bit-operations\BitOperations\obj\Debug\net6.0\BitOperations.dll
+C:\Users\bachi\source\repos\bit-operations\BitOperations\obj\Debug\net6.0\refint\BitOperations.dll
+C:\Users\bachi\source\repos\bit-operations\BitOperations\obj\Debug\net6.0\BitOperations.pdb
+C:\Users\bachi\source\repos\bit-operations\BitOperations\obj\Debug\net6.0\ref\BitOperations.dll

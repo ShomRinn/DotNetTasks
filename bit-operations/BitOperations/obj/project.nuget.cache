@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4nqeHYJrLLQyH2Hufum9wxERVXGM8bqSZYnHH+MwqDHZ/59PDY2V1Fx6RMnzPlGH23FQcpT47/0q6rlYH2a9sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\bit-operations\\BitOperations\\BitOperations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
