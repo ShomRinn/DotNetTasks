@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetTypeOfDigitsSequence", "GetTypeOfDigitsSequence\GetTypeOfDigitsSequence.csproj", "{7CF4DFB6-B8FE-46DD-AB33-B6BED4424F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CF4DFB6-B8FE-46DD-AB33-B6BED4424F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF4DFB6-B8FE-46DD-AB33-B6BED4424F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF4DFB6-B8FE-46DD-AB33-B6BED4424F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF4DFB6-B8FE-46DD-AB33-B6BED4424F16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D3F2A46-AC43-462A-876D-F6A98AA90A10}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\bachi\source\repos\GetTypeOfDigitsSec\GetTypeOfDigitsSec\bin\Debug\net6.0\GetTypeOfDigitsSec.deps.json
+C:\Users\bachi\source\repos\GetTypeOfDigitsSec\GetTypeOfDigitsSec\bin\Debug\net6.0\GetTypeOfDigitsSec.dll
+C:\Users\bachi\source\repos\GetTypeOfDigitsSec\GetTypeOfDigitsSec\bin\Debug\net6.0\GetTypeOfDigitsSec.pdb
+C:\Users\bachi\source\repos\GetTypeOfDigitsSec\GetTypeOfDigitsSec\obj\Debug\net6.0\GetTypeOfDigitsSec.csproj.AssemblyReference.cache
+C:\Users\bachi\source\repos\GetTypeOfDigitsSec\GetTypeOfDigitsSec\obj\Debug\net6.0\GetTypeOfDigitsSec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\source\repos\GetTypeOfDigitsSec\GetTypeOfDigitsSec\obj\Debug\net6.0\GetTypeOfDigitsSec.AssemblyInfoInputs.cache
+C:\Users\bachi\source\repos\GetTypeOfDigitsSec\GetTypeOfDigitsSec\obj\Debug\net6.0\GetTypeOfDigitsSec.AssemblyInfo.cs
+C:\Users\bachi\source\repos\GetTypeOfDigitsSec\GetTypeOfDigitsSec\obj\Debug\net6.0\GetTypeOfDigitsSec.csproj.CoreCompileInputs.cache
+C:\Users\bachi\source\repos\GetTypeOfDigitsSec\GetTypeOfDigitsSec\obj\Debug\net6.0\GetTypeOfDigitsSec.dll
+C:\Users\bachi\source\repos\GetTypeOfDigitsSec\GetTypeOfDigitsSec\obj\Debug\net6.0\refint\GetTypeOfDigitsSec.dll
+C:\Users\bachi\source\repos\GetTypeOfDigitsSec\GetTypeOfDigitsSec\obj\Debug\net6.0\GetTypeOfDigitsSec.pdb
+C:\Users\bachi\source\repos\GetTypeOfDigitsSec\GetTypeOfDigitsSec\obj\Debug\net6.0\ref\GetTypeOfDigitsSec.dll

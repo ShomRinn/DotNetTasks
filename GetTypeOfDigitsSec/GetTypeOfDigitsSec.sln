@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetTypeOfDigitsSec", "GetTypeOfDigitsSec\GetTypeOfDigitsSec.csproj", "{B5C725B7-EA48-4215-81C3-1E1A3C827695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetTypeOfDigitsSec.Test", "GetTypeOfDigitsSec.Test\GetTypeOfDigitsSec.Test.csproj", "{9F0FC84C-9057-446A-BA0C-DC6DA582BA0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C725B7-EA48-4215-81C3-1E1A3C827695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C725B7-EA48-4215-81C3-1E1A3C827695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C725B7-EA48-4215-81C3-1E1A3C827695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C725B7-EA48-4215-81C3-1E1A3C827695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0FC84C-9057-446A-BA0C-DC6DA582BA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0FC84C-9057-446A-BA0C-DC6DA582BA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0FC84C-9057-446A-BA0C-DC6DA582BA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0FC84C-9057-446A-BA0C-DC6DA582BA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B26BE764-DAAF-4AF0-A09A-8A1CA4CDB3AF}
+	EndGlobalSection
+EndGlobal

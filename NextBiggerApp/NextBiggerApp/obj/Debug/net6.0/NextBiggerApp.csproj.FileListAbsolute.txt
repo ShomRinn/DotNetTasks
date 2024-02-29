@@ -1,0 +1,15 @@
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\bin\Debug\net6.0\NextBiggerApp.exe
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\bin\Debug\net6.0\NextBiggerApp.deps.json
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\bin\Debug\net6.0\NextBiggerApp.runtimeconfig.json
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\bin\Debug\net6.0\NextBiggerApp.dll
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\bin\Debug\net6.0\NextBiggerApp.pdb
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\obj\Debug\net6.0\NextBiggerApp.csproj.AssemblyReference.cache
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\obj\Debug\net6.0\NextBiggerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\obj\Debug\net6.0\NextBiggerApp.AssemblyInfoInputs.cache
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\obj\Debug\net6.0\NextBiggerApp.AssemblyInfo.cs
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\obj\Debug\net6.0\NextBiggerApp.csproj.CoreCompileInputs.cache
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\obj\Debug\net6.0\NextBiggerApp.dll
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\obj\Debug\net6.0\refint\NextBiggerApp.dll
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\obj\Debug\net6.0\NextBiggerApp.pdb
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\obj\Debug\net6.0\NextBiggerApp.genruntimeconfig.cache
+C:\Users\bachi\source\repos\NextBiggerApp\NextBiggerApp\obj\Debug\net6.0\ref\NextBiggerApp.dll
