@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\struct-time\TimeStruct\bin\Debug\net6.0\TimeStruct.deps.json
+C:\Users\bachi\Source\Repos\struct-time\TimeStruct\bin\Debug\net6.0\TimeStruct.dll
+C:\Users\bachi\Source\Repos\struct-time\TimeStruct\bin\Debug\net6.0\TimeStruct.pdb
+C:\Users\bachi\Source\Repos\struct-time\TimeStruct\obj\Debug\net6.0\TimeStruct.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\struct-time\TimeStruct\obj\Debug\net6.0\TimeStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\struct-time\TimeStruct\obj\Debug\net6.0\TimeStruct.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\struct-time\TimeStruct\obj\Debug\net6.0\TimeStruct.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\struct-time\TimeStruct\obj\Debug\net6.0\TimeStruct.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\struct-time\TimeStruct\obj\Debug\net6.0\TimeStruct.dll
+C:\Users\bachi\Source\Repos\struct-time\TimeStruct\obj\Debug\net6.0\refint\TimeStruct.dll
+C:\Users\bachi\Source\Repos\struct-time\TimeStruct\obj\Debug\net6.0\TimeStruct.pdb
+C:\Users\bachi\Source\Repos\struct-time\TimeStruct\obj\Debug\net6.0\ref\TimeStruct.dll

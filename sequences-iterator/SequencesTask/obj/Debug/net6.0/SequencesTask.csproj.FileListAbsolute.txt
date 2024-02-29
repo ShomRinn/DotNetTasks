@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\sequences-iterator\SequencesTask\bin\Debug\net6.0\SequencesTask.deps.json
+C:\Users\bachi\Source\Repos\sequences-iterator\SequencesTask\bin\Debug\net6.0\SequencesTask.dll
+C:\Users\bachi\Source\Repos\sequences-iterator\SequencesTask\bin\Debug\net6.0\SequencesTask.pdb
+C:\Users\bachi\Source\Repos\sequences-iterator\SequencesTask\obj\Debug\net6.0\SequencesTask.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\sequences-iterator\SequencesTask\obj\Debug\net6.0\SequencesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\sequences-iterator\SequencesTask\obj\Debug\net6.0\SequencesTask.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\sequences-iterator\SequencesTask\obj\Debug\net6.0\SequencesTask.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\sequences-iterator\SequencesTask\obj\Debug\net6.0\SequencesTask.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\sequences-iterator\SequencesTask\obj\Debug\net6.0\SequencesTask.dll
+C:\Users\bachi\Source\Repos\sequences-iterator\SequencesTask\obj\Debug\net6.0\refint\SequencesTask.dll
+C:\Users\bachi\Source\Repos\sequences-iterator\SequencesTask\obj\Debug\net6.0\SequencesTask.pdb
+C:\Users\bachi\Source\Repos\sequences-iterator\SequencesTask\obj\Debug\net6.0\ref\SequencesTask.dll

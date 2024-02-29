@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IaNkhJwGxJHDp3qqZdB5oeEq4eH+1AuWgrDY/hzVc6Pqe7VaxadwZXC/81KVAOGHUEji24TXNOmrn/JJU/+STA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\Source\\Repos\\polynomial\\PolynomialTask\\PolynomialTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

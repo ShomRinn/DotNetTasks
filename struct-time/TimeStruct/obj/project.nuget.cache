@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O5NUXyrqxliqT8q+cpMc7KvfJiSsA8lLeTsihh6P2ynZ4FHstnYHuASnonorrS+e3plwch98/8Uuf1pRauQ8SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\struct-time\\TimeStruct\\TimeStruct.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

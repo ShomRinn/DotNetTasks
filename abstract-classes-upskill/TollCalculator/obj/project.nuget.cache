@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uy19di4HIhzgy/ZOCkUimO8OwEgc0ot6/QvOVllLQxJVF+qoeynPceIArB0l3zKNKhz8tx5bIM3CGHIdYI09SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\abstract-classes-upskill\\TollCalculator\\TollCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

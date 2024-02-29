@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\enumerable-extensions\EnumerableExtensionsTask\bin\Debug\net6.0\EnumerableExtensionsTask.deps.json
+C:\Users\bachi\Source\Repos\enumerable-extensions\EnumerableExtensionsTask\bin\Debug\net6.0\EnumerableExtensionsTask.dll
+C:\Users\bachi\Source\Repos\enumerable-extensions\EnumerableExtensionsTask\bin\Debug\net6.0\EnumerableExtensionsTask.pdb
+C:\Users\bachi\Source\Repos\enumerable-extensions\EnumerableExtensionsTask\obj\Debug\net6.0\EnumerableExtensionsTask.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\enumerable-extensions\EnumerableExtensionsTask\obj\Debug\net6.0\EnumerableExtensionsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\enumerable-extensions\EnumerableExtensionsTask\obj\Debug\net6.0\EnumerableExtensionsTask.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\enumerable-extensions\EnumerableExtensionsTask\obj\Debug\net6.0\EnumerableExtensionsTask.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\enumerable-extensions\EnumerableExtensionsTask\obj\Debug\net6.0\EnumerableExtensionsTask.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\enumerable-extensions\EnumerableExtensionsTask\obj\Debug\net6.0\EnumerableExtensionsTask.dll
+C:\Users\bachi\Source\Repos\enumerable-extensions\EnumerableExtensionsTask\obj\Debug\net6.0\refint\EnumerableExtensionsTask.dll
+C:\Users\bachi\Source\Repos\enumerable-extensions\EnumerableExtensionsTask\obj\Debug\net6.0\EnumerableExtensionsTask.pdb
+C:\Users\bachi\Source\Repos\enumerable-extensions\EnumerableExtensionsTask\obj\Debug\net6.0\ref\EnumerableExtensionsTask.dll

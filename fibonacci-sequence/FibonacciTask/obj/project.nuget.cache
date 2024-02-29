@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FlOgGOWISs8yEDJDYA9r/RJgxickmcx1hBYG1WLSY6RRz+KLQGbhNlYO7ftG11MgnWIIypKh2aejjg+n1c6h8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\Source\\Repos\\fibonacci-sequence\\FibonacciTask\\FibonacciTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

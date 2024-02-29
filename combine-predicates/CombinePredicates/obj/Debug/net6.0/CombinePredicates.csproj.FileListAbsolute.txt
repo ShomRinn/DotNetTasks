@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\combine-predicates\CombinePredicates\bin\Debug\net6.0\CombinePredicates.deps.json
+C:\Users\bachi\Source\Repos\combine-predicates\CombinePredicates\bin\Debug\net6.0\CombinePredicates.dll
+C:\Users\bachi\Source\Repos\combine-predicates\CombinePredicates\bin\Debug\net6.0\CombinePredicates.pdb
+C:\Users\bachi\Source\Repos\combine-predicates\CombinePredicates\obj\Debug\net6.0\CombinePredicates.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\combine-predicates\CombinePredicates\obj\Debug\net6.0\CombinePredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\combine-predicates\CombinePredicates\obj\Debug\net6.0\CombinePredicates.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\combine-predicates\CombinePredicates\obj\Debug\net6.0\CombinePredicates.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\combine-predicates\CombinePredicates\obj\Debug\net6.0\CombinePredicates.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\combine-predicates\CombinePredicates\obj\Debug\net6.0\CombinePredicates.dll
+C:\Users\bachi\Source\Repos\combine-predicates\CombinePredicates\obj\Debug\net6.0\refint\CombinePredicates.dll
+C:\Users\bachi\Source\Repos\combine-predicates\CombinePredicates\obj\Debug\net6.0\CombinePredicates.pdb
+C:\Users\bachi\Source\Repos\combine-predicates\CombinePredicates\obj\Debug\net6.0\ref\CombinePredicates.dll

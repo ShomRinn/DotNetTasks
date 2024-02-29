@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kIJsnwi7mUYJ/q3/boyHxRcI4rMaFJdIQUVW8yGe4G/0smtZQqR5Q19eoKCmhB9bLfv0JxtwTySj6iUbsdcFdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\Source\\Repos\\combine-predicates\\CombinePredicates\\CombinePredicates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

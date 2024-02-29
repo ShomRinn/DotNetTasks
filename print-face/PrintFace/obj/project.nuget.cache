@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XOnFQkUB5EgHLHQbAJAQEErHqUjpOsINs27IbHyGBCZ1ftbrBBcOOdM5C/N5TEXJp0fB80IkstHKf66RSuIBIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\print-face\\PrintFace\\PrintFace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

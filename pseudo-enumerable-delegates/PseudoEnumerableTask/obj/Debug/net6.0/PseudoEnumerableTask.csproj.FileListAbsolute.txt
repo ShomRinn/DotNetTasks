@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\pseudo-enumerable-delegates\PseudoEnumerableTask\bin\Debug\net6.0\PseudoEnumerableTask.deps.json
+C:\Users\bachi\Source\Repos\pseudo-enumerable-delegates\PseudoEnumerableTask\bin\Debug\net6.0\PseudoEnumerableTask.dll
+C:\Users\bachi\Source\Repos\pseudo-enumerable-delegates\PseudoEnumerableTask\bin\Debug\net6.0\PseudoEnumerableTask.pdb
+C:\Users\bachi\Source\Repos\pseudo-enumerable-delegates\PseudoEnumerableTask\obj\Debug\net6.0\PseudoEnumerableTask.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\pseudo-enumerable-delegates\PseudoEnumerableTask\obj\Debug\net6.0\PseudoEnumerableTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\pseudo-enumerable-delegates\PseudoEnumerableTask\obj\Debug\net6.0\PseudoEnumerableTask.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\pseudo-enumerable-delegates\PseudoEnumerableTask\obj\Debug\net6.0\PseudoEnumerableTask.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\pseudo-enumerable-delegates\PseudoEnumerableTask\obj\Debug\net6.0\PseudoEnumerableTask.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\pseudo-enumerable-delegates\PseudoEnumerableTask\obj\Debug\net6.0\PseudoEnumerableTask.dll
+C:\Users\bachi\Source\Repos\pseudo-enumerable-delegates\PseudoEnumerableTask\obj\Debug\net6.0\refint\PseudoEnumerableTask.dll
+C:\Users\bachi\Source\Repos\pseudo-enumerable-delegates\PseudoEnumerableTask\obj\Debug\net6.0\PseudoEnumerableTask.pdb
+C:\Users\bachi\Source\Repos\pseudo-enumerable-delegates\PseudoEnumerableTask\obj\Debug\net6.0\ref\PseudoEnumerableTask.dll

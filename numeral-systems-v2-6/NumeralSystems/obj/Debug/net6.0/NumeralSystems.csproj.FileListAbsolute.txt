@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\numeral-systems-v2-6\NumeralSystems\bin\Debug\net6.0\NumeralSystems.deps.json
+C:\Users\bachi\Source\Repos\numeral-systems-v2-6\NumeralSystems\bin\Debug\net6.0\NumeralSystems.dll
+C:\Users\bachi\Source\Repos\numeral-systems-v2-6\NumeralSystems\bin\Debug\net6.0\NumeralSystems.pdb
+C:\Users\bachi\Source\Repos\numeral-systems-v2-6\NumeralSystems\obj\Debug\net6.0\NumeralSystems.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\numeral-systems-v2-6\NumeralSystems\obj\Debug\net6.0\NumeralSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\numeral-systems-v2-6\NumeralSystems\obj\Debug\net6.0\NumeralSystems.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\numeral-systems-v2-6\NumeralSystems\obj\Debug\net6.0\NumeralSystems.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\numeral-systems-v2-6\NumeralSystems\obj\Debug\net6.0\NumeralSystems.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\numeral-systems-v2-6\NumeralSystems\obj\Debug\net6.0\NumeralSystems.dll
+C:\Users\bachi\Source\Repos\numeral-systems-v2-6\NumeralSystems\obj\Debug\net6.0\refint\NumeralSystems.dll
+C:\Users\bachi\Source\Repos\numeral-systems-v2-6\NumeralSystems\obj\Debug\net6.0\NumeralSystems.pdb
+C:\Users\bachi\Source\Repos\numeral-systems-v2-6\NumeralSystems\obj\Debug\net6.0\ref\NumeralSystems.dll

@@ -1,0 +1,24 @@
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\ArrayExtensions\bin\Debug\net6.0\ArrayExtensions.deps.json
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\ArrayExtensions\bin\Debug\net6.0\ArrayExtensions.dll
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\ArrayExtensions\bin\Debug\net6.0\ArrayExtensions.pdb
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\ArrayExtensions\obj\Debug\net6.0\ArrayExtensions.csproj.AssemblyReference.cache
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\ArrayExtensions\obj\Debug\net6.0\ArrayExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\ArrayExtensions\obj\Debug\net6.0\ArrayExtensions.AssemblyInfoInputs.cache
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\ArrayExtensions\obj\Debug\net6.0\ArrayExtensions.AssemblyInfo.cs
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\ArrayExtensions\obj\Debug\net6.0\ArrayExtensions.csproj.CoreCompileInputs.cache
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\ArrayExtensions\obj\Debug\net6.0\ArrayExtensions.dll
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\ArrayExtensions\obj\Debug\net6.0\refint\ArrayExtensions.dll
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\ArrayExtensions\obj\Debug\net6.0\ArrayExtensions.pdb
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\ArrayExtensions\obj\Debug\net6.0\ref\ArrayExtensions.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\ArrayExtensions\bin\Debug\net6.0\ArrayExtensions.deps.json
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\ArrayExtensions\bin\Debug\net6.0\ArrayExtensions.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\ArrayExtensions\bin\Debug\net6.0\ArrayExtensions.pdb
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\ArrayExtensions\obj\Debug\net6.0\ArrayExtensions.csproj.AssemblyReference.cache
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\ArrayExtensions\obj\Debug\net6.0\ArrayExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\ArrayExtensions\obj\Debug\net6.0\ArrayExtensions.AssemblyInfoInputs.cache
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\ArrayExtensions\obj\Debug\net6.0\ArrayExtensions.AssemblyInfo.cs
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\ArrayExtensions\obj\Debug\net6.0\ArrayExtensions.csproj.CoreCompileInputs.cache
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\ArrayExtensions\obj\Debug\net6.0\ArrayExtensions.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\ArrayExtensions\obj\Debug\net6.0\refint\ArrayExtensions.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\ArrayExtensions\obj\Debug\net6.0\ArrayExtensions.pdb
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\ArrayExtensions\obj\Debug\net6.0\ref\ArrayExtensions.dll

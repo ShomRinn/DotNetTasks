@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1tDEqwt7itHMA9L+cgMnX5A6bX2+VO95Fvx8/svmVNR6XyUu+Ke7IIIbNfJYkO/daE3oDSqDBq1etuUfZKZ3MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\inheritance-upskill\\InheritanceVehicle\\InheritanceVehicle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "++RDOuhHu2h2fm+z4C9hxQJDQm/MwUdNXXxXqMWDdxx0icXZMR2PQ1yhJ3V5ZSWVv+WQH/p88tPo6Bpvt1PtwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\pseudo-enumerable\\Transformers\\Transformers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

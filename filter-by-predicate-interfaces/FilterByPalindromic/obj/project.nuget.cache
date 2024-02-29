@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBP/iFij7mhu/war6KbK0LFNWWQetmV5tCtr7qd6oJsvtZe5sGC6z8wxnMYGbWJ+ZChPU9CO85Chsohb8LpuMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\filter-by-predicate-interfaces\\FilterByPalindromic\\FilterByPalindromic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vg9IsdPGlT65ajFbYmXchKB/BOIzToCdLavRVm0kc/KmHQJxb/6kJ6cP95EW2odqJTqqVy5aymxuKvh5sNxQcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\Source\\Repos\\nullable-types\\NullableTypesTask\\NullableTypesTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

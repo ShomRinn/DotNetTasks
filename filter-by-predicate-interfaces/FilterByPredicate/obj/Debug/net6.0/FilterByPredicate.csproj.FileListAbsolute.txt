@@ -1,0 +1,24 @@
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPredicate\bin\Debug\net6.0\FilterByPredicate.deps.json
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPredicate\bin\Debug\net6.0\FilterByPredicate.dll
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPredicate\bin\Debug\net6.0\FilterByPredicate.pdb
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPredicate\obj\Debug\net6.0\FilterByPredicate.csproj.AssemblyReference.cache
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPredicate\obj\Debug\net6.0\FilterByPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPredicate\obj\Debug\net6.0\FilterByPredicate.AssemblyInfoInputs.cache
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPredicate\obj\Debug\net6.0\FilterByPredicate.AssemblyInfo.cs
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPredicate\obj\Debug\net6.0\FilterByPredicate.csproj.CoreCompileInputs.cache
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPredicate\obj\Debug\net6.0\FilterByPredicate.dll
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPredicate\obj\Debug\net6.0\refint\FilterByPredicate.dll
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPredicate\obj\Debug\net6.0\FilterByPredicate.pdb
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPredicate\obj\Debug\net6.0\ref\FilterByPredicate.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPredicate\bin\Debug\net6.0\FilterByPredicate.deps.json
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPredicate\bin\Debug\net6.0\FilterByPredicate.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPredicate\bin\Debug\net6.0\FilterByPredicate.pdb
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPredicate\obj\Debug\net6.0\FilterByPredicate.csproj.AssemblyReference.cache
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPredicate\obj\Debug\net6.0\FilterByPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPredicate\obj\Debug\net6.0\FilterByPredicate.AssemblyInfoInputs.cache
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPredicate\obj\Debug\net6.0\FilterByPredicate.AssemblyInfo.cs
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPredicate\obj\Debug\net6.0\FilterByPredicate.csproj.CoreCompileInputs.cache
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPredicate\obj\Debug\net6.0\FilterByPredicate.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPredicate\obj\Debug\net6.0\refint\FilterByPredicate.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPredicate\obj\Debug\net6.0\FilterByPredicate.pdb
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPredicate\obj\Debug\net6.0\ref\FilterByPredicate.dll

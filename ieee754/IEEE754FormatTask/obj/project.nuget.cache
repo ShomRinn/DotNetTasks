@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OcLMyo5CPDheFMwr3Jo+l0cBx99TKfw/Ane6bR9oz9eY8UHXf2yJZ2WNv588mQoJhwaUqlnxjgJZKiD4j4JsUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\ieee754\\IEEE754FormatTask\\IEEE754FormatTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

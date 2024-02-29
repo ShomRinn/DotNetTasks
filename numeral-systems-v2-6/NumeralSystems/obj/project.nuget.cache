@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YbmsDF3JCznFZQuz17Xqlq1y8ZfT4CfzbazzOQHHzQYNtmPdKCVXQN8pJ/bv9DZ19VAr4c9KrLNhgCmav6Hz3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\numeral-systems-v2-6\\NumeralSystems\\NumeralSystems.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\counting-string-chars6\CountingStringChars\bin\Debug\net6.0\CountingStringChars.deps.json
+C:\Users\bachi\Source\Repos\counting-string-chars6\CountingStringChars\bin\Debug\net6.0\CountingStringChars.dll
+C:\Users\bachi\Source\Repos\counting-string-chars6\CountingStringChars\bin\Debug\net6.0\CountingStringChars.pdb
+C:\Users\bachi\Source\Repos\counting-string-chars6\CountingStringChars\obj\Debug\net6.0\CountingStringChars.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\counting-string-chars6\CountingStringChars\obj\Debug\net6.0\CountingStringChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\counting-string-chars6\CountingStringChars\obj\Debug\net6.0\CountingStringChars.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\counting-string-chars6\CountingStringChars\obj\Debug\net6.0\CountingStringChars.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\counting-string-chars6\CountingStringChars\obj\Debug\net6.0\CountingStringChars.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\counting-string-chars6\CountingStringChars\obj\Debug\net6.0\CountingStringChars.dll
+C:\Users\bachi\Source\Repos\counting-string-chars6\CountingStringChars\obj\Debug\net6.0\refint\CountingStringChars.dll
+C:\Users\bachi\Source\Repos\counting-string-chars6\CountingStringChars\obj\Debug\net6.0\CountingStringChars.pdb
+C:\Users\bachi\Source\Repos\counting-string-chars6\CountingStringChars\obj\Debug\net6.0\ref\CountingStringChars.dll

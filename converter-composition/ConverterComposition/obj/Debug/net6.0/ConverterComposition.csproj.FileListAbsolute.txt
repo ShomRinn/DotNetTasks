@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\converter-composition\ConverterComposition\bin\Debug\net6.0\ConverterComposition.deps.json
+C:\Users\bachi\Source\Repos\converter-composition\ConverterComposition\bin\Debug\net6.0\ConverterComposition.dll
+C:\Users\bachi\Source\Repos\converter-composition\ConverterComposition\bin\Debug\net6.0\ConverterComposition.pdb
+C:\Users\bachi\Source\Repos\converter-composition\ConverterComposition\obj\Debug\net6.0\ConverterComposition.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\converter-composition\ConverterComposition\obj\Debug\net6.0\ConverterComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\converter-composition\ConverterComposition\obj\Debug\net6.0\ConverterComposition.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\converter-composition\ConverterComposition\obj\Debug\net6.0\ConverterComposition.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\converter-composition\ConverterComposition\obj\Debug\net6.0\ConverterComposition.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\converter-composition\ConverterComposition\obj\Debug\net6.0\ConverterComposition.dll
+C:\Users\bachi\Source\Repos\converter-composition\ConverterComposition\obj\Debug\net6.0\refint\ConverterComposition.dll
+C:\Users\bachi\Source\Repos\converter-composition\ConverterComposition\obj\Debug\net6.0\ConverterComposition.pdb
+C:\Users\bachi\Source\Repos\converter-composition\ConverterComposition\obj\Debug\net6.0\ref\ConverterComposition.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zXyFdtJyzcKX3TB8PjBIQc0L4s8GejDrExs74sgSj8Snd4zDfSfQ5Pz/FMv3XMqk5zTflSAiR+nuhHI6j3LjJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\isbn-validator\\IsbnValidator\\IsbnValidator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

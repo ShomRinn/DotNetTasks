@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y0+J9nQHE57KnT7ziRauOoPcQxT9Yg1FQdIrRMLVsDSccyd9BkmJm86nuTrxeQerrnM+yBYBIcrHVSy+1bYw9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\uml-design-basics\\UmlDesignBasics\\UmlDesignBasics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

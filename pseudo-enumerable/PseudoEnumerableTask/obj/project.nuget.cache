@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wvcc64Yps2Fjzwi8uRzYN7JkFwc6+avCFl7SOqe76xM4T/EwdtpkW1Ts1ZP3W2q0kfDNZ3CwrT/r+gM3YJkBnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\pseudo-enumerable\\PseudoEnumerableTask\\PseudoEnumerableTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

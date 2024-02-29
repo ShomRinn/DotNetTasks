@@ -1,0 +1,10 @@
+C:\Users\bachi\Source\Repos\working-with-streams\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.deps.json
+C:\Users\bachi\Source\Repos\working-with-streams\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.dll
+C:\Users\bachi\Source\Repos\working-with-streams\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.pdb
+C:\Users\bachi\Source\Repos\working-with-streams\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\working-with-streams\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\working-with-streams\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\working-with-streams\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\working-with-streams\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\working-with-streams\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.dll
+C:\Users\bachi\Source\Repos\working-with-streams\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.pdb

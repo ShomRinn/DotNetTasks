@@ -1,0 +1,15 @@
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\bin\Debug\net6.0\Transformers.deps.json
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\bin\Debug\net6.0\Transformers.dll
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\bin\Debug\net6.0\Transformers.pdb
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\bin\Debug\net6.0\PseudoEnumerableTask.dll
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\bin\Debug\net6.0\PseudoEnumerableTask.pdb
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\obj\Debug\net6.0\Transformers.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\obj\Debug\net6.0\Transformers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\obj\Debug\net6.0\Transformers.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\obj\Debug\net6.0\Transformers.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\obj\Debug\net6.0\Transformers.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\obj\Debug\net6.0\Transformers.csproj.CopyComplete
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\obj\Debug\net6.0\Transformers.dll
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\obj\Debug\net6.0\refint\Transformers.dll
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\obj\Debug\net6.0\Transformers.pdb
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Transformers\obj\Debug\net6.0\ref\Transformers.dll

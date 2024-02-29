@@ -1,0 +1,15 @@
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\bin\Debug\net6.0\DerivedClasses.deps.json
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\bin\Debug\net6.0\DerivedClasses.dll
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\bin\Debug\net6.0\DerivedClasses.pdb
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\bin\Debug\net6.0\FilterByPredicate.dll
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\bin\Debug\net6.0\FilterByPredicate.pdb
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\obj\Debug\net6.0\DerivedClasses.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\obj\Debug\net6.0\DerivedClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\obj\Debug\net6.0\DerivedClasses.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\obj\Debug\net6.0\DerivedClasses.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\obj\Debug\net6.0\DerivedClasses.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\obj\Debug\net6.0\DerivedClasses.csproj.CopyComplete
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\obj\Debug\net6.0\DerivedClasses.dll
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\obj\Debug\net6.0\refint\DerivedClasses.dll
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\obj\Debug\net6.0\DerivedClasses.pdb
+C:\Users\bachi\Source\Repos\filter-by-predicate-inheritance\DerivedClasses\obj\Debug\net6.0\ref\DerivedClasses.dll

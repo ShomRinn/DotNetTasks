@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cw/ufNRJHvS4fgnAUabvZ4/koO1J6RW5TqF2HX0c6AvJPKtkWQ6oO6LSW3rSyVulpWopX1qdJksYFwogoY08sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\Source\\Repos\\converter-composition\\ConverterComposition\\ConverterComposition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

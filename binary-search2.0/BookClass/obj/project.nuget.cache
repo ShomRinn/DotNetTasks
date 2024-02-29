@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nnOR09ji0M1/Xgb6PSOwiJY5lyIviKPRnyN42up0fVxCu3xMvc/Z3kKTUljPyZGjDfeIzJ2yMn6rfUIT6iDHfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\binary-search2.0\\BookClass\\BookClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

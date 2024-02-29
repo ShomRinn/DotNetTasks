@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\generic-methods\Ieee754FormatTask\bin\Debug\net6.0\Ieee754FormatTask.deps.json
+C:\Users\bachi\Source\Repos\generic-methods\Ieee754FormatTask\bin\Debug\net6.0\Ieee754FormatTask.dll
+C:\Users\bachi\Source\Repos\generic-methods\Ieee754FormatTask\bin\Debug\net6.0\Ieee754FormatTask.pdb
+C:\Users\bachi\Source\Repos\generic-methods\Ieee754FormatTask\obj\Debug\net6.0\Ieee754FormatTask.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\generic-methods\Ieee754FormatTask\obj\Debug\net6.0\Ieee754FormatTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\generic-methods\Ieee754FormatTask\obj\Debug\net6.0\Ieee754FormatTask.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\generic-methods\Ieee754FormatTask\obj\Debug\net6.0\Ieee754FormatTask.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\generic-methods\Ieee754FormatTask\obj\Debug\net6.0\Ieee754FormatTask.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\generic-methods\Ieee754FormatTask\obj\Debug\net6.0\Ieee754FormatTask.dll
+C:\Users\bachi\Source\Repos\generic-methods\Ieee754FormatTask\obj\Debug\net6.0\refint\Ieee754FormatTask.dll
+C:\Users\bachi\Source\Repos\generic-methods\Ieee754FormatTask\obj\Debug\net6.0\Ieee754FormatTask.pdb
+C:\Users\bachi\Source\Repos\generic-methods\Ieee754FormatTask\obj\Debug\net6.0\ref\Ieee754FormatTask.dll

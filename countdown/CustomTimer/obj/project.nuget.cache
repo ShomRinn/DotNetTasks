@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ngf6x1zUPPFbvi7ZLtGWvlP8/6E6EZBk7erog8DsqC+GhZkVwNzTZ7rSNmBZQhK46/OUj0ELskd4mtH/VS8GYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\countdown\\CustomTimer\\CustomTimer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

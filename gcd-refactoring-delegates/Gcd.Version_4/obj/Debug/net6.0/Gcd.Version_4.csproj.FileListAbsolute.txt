@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\gcd-refactoring-delegates\Gcd.Version_4\bin\Debug\net6.0\Gcd.Version_4.deps.json
+C:\Users\bachi\Source\Repos\gcd-refactoring-delegates\Gcd.Version_4\bin\Debug\net6.0\Gcd.Version_4.dll
+C:\Users\bachi\Source\Repos\gcd-refactoring-delegates\Gcd.Version_4\bin\Debug\net6.0\Gcd.Version_4.pdb
+C:\Users\bachi\Source\Repos\gcd-refactoring-delegates\Gcd.Version_4\obj\Debug\net6.0\Gcd.Version_4.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\gcd-refactoring-delegates\Gcd.Version_4\obj\Debug\net6.0\Gcd.Version_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\gcd-refactoring-delegates\Gcd.Version_4\obj\Debug\net6.0\Gcd.Version_4.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\gcd-refactoring-delegates\Gcd.Version_4\obj\Debug\net6.0\Gcd.Version_4.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\gcd-refactoring-delegates\Gcd.Version_4\obj\Debug\net6.0\Gcd.Version_4.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\gcd-refactoring-delegates\Gcd.Version_4\obj\Debug\net6.0\Gcd.Version_4.dll
+C:\Users\bachi\Source\Repos\gcd-refactoring-delegates\Gcd.Version_4\obj\Debug\net6.0\refint\Gcd.Version_4.dll
+C:\Users\bachi\Source\Repos\gcd-refactoring-delegates\Gcd.Version_4\obj\Debug\net6.0\Gcd.Version_4.pdb
+C:\Users\bachi\Source\Repos\gcd-refactoring-delegates\Gcd.Version_4\obj\Debug\net6.0\ref\Gcd.Version_4.dll

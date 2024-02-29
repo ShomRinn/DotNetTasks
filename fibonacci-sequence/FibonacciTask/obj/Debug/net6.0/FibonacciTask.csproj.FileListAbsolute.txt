@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\fibonacci-sequence\FibonacciTask\bin\Debug\net6.0\FibonacciTask.deps.json
+C:\Users\bachi\Source\Repos\fibonacci-sequence\FibonacciTask\bin\Debug\net6.0\FibonacciTask.dll
+C:\Users\bachi\Source\Repos\fibonacci-sequence\FibonacciTask\bin\Debug\net6.0\FibonacciTask.pdb
+C:\Users\bachi\Source\Repos\fibonacci-sequence\FibonacciTask\obj\Debug\net6.0\FibonacciTask.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\fibonacci-sequence\FibonacciTask\obj\Debug\net6.0\FibonacciTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\fibonacci-sequence\FibonacciTask\obj\Debug\net6.0\FibonacciTask.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\fibonacci-sequence\FibonacciTask\obj\Debug\net6.0\FibonacciTask.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\fibonacci-sequence\FibonacciTask\obj\Debug\net6.0\FibonacciTask.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\fibonacci-sequence\FibonacciTask\obj\Debug\net6.0\FibonacciTask.dll
+C:\Users\bachi\Source\Repos\fibonacci-sequence\FibonacciTask\obj\Debug\net6.0\refint\FibonacciTask.dll
+C:\Users\bachi\Source\Repos\fibonacci-sequence\FibonacciTask\obj\Debug\net6.0\FibonacciTask.pdb
+C:\Users\bachi\Source\Repos\fibonacci-sequence\FibonacciTask\obj\Debug\net6.0\ref\FibonacciTask.dll

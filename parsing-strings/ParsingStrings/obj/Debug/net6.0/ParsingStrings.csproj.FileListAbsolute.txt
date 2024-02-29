@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\parsing-strings\ParsingStrings\bin\Debug\net6.0\ParsingStrings.deps.json
+C:\Users\bachi\Source\Repos\parsing-strings\ParsingStrings\bin\Debug\net6.0\ParsingStrings.dll
+C:\Users\bachi\Source\Repos\parsing-strings\ParsingStrings\bin\Debug\net6.0\ParsingStrings.pdb
+C:\Users\bachi\Source\Repos\parsing-strings\ParsingStrings\obj\Debug\net6.0\ParsingStrings.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\parsing-strings\ParsingStrings\obj\Debug\net6.0\ParsingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\parsing-strings\ParsingStrings\obj\Debug\net6.0\ParsingStrings.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\parsing-strings\ParsingStrings\obj\Debug\net6.0\ParsingStrings.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\parsing-strings\ParsingStrings\obj\Debug\net6.0\ParsingStrings.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\parsing-strings\ParsingStrings\obj\Debug\net6.0\ParsingStrings.dll
+C:\Users\bachi\Source\Repos\parsing-strings\ParsingStrings\obj\Debug\net6.0\refint\ParsingStrings.dll
+C:\Users\bachi\Source\Repos\parsing-strings\ParsingStrings\obj\Debug\net6.0\ParsingStrings.pdb
+C:\Users\bachi\Source\Repos\parsing-strings\ParsingStrings\obj\Debug\net6.0\ref\ParsingStrings.dll

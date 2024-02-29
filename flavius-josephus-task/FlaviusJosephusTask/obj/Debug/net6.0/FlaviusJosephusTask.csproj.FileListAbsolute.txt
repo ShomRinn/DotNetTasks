@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\flavius-josephus-task\FlaviusJosephusTask\bin\Debug\net6.0\FlaviusJosephusTask.deps.json
+C:\Users\bachi\Source\Repos\flavius-josephus-task\FlaviusJosephusTask\bin\Debug\net6.0\FlaviusJosephusTask.dll
+C:\Users\bachi\Source\Repos\flavius-josephus-task\FlaviusJosephusTask\bin\Debug\net6.0\FlaviusJosephusTask.pdb
+C:\Users\bachi\Source\Repos\flavius-josephus-task\FlaviusJosephusTask\obj\Debug\net6.0\FlaviusJosephusTask.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\flavius-josephus-task\FlaviusJosephusTask\obj\Debug\net6.0\FlaviusJosephusTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\flavius-josephus-task\FlaviusJosephusTask\obj\Debug\net6.0\FlaviusJosephusTask.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\flavius-josephus-task\FlaviusJosephusTask\obj\Debug\net6.0\FlaviusJosephusTask.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\flavius-josephus-task\FlaviusJosephusTask\obj\Debug\net6.0\FlaviusJosephusTask.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\flavius-josephus-task\FlaviusJosephusTask\obj\Debug\net6.0\FlaviusJosephusTask.dll
+C:\Users\bachi\Source\Repos\flavius-josephus-task\FlaviusJosephusTask\obj\Debug\net6.0\refint\FlaviusJosephusTask.dll
+C:\Users\bachi\Source\Repos\flavius-josephus-task\FlaviusJosephusTask\obj\Debug\net6.0\FlaviusJosephusTask.pdb
+C:\Users\bachi\Source\Repos\flavius-josephus-task\FlaviusJosephusTask\obj\Debug\net6.0\ref\FlaviusJosephusTask.dll

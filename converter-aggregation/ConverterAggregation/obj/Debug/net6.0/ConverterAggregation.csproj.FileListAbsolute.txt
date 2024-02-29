@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\converter-aggregation\ConverterAggregation\bin\Debug\net6.0\ConverterAggregation.deps.json
+C:\Users\bachi\Source\Repos\converter-aggregation\ConverterAggregation\bin\Debug\net6.0\ConverterAggregation.dll
+C:\Users\bachi\Source\Repos\converter-aggregation\ConverterAggregation\bin\Debug\net6.0\ConverterAggregation.pdb
+C:\Users\bachi\Source\Repos\converter-aggregation\ConverterAggregation\obj\Debug\net6.0\ConverterAggregation.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\converter-aggregation\ConverterAggregation\obj\Debug\net6.0\ConverterAggregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\converter-aggregation\ConverterAggregation\obj\Debug\net6.0\ConverterAggregation.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\converter-aggregation\ConverterAggregation\obj\Debug\net6.0\ConverterAggregation.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\converter-aggregation\ConverterAggregation\obj\Debug\net6.0\ConverterAggregation.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\converter-aggregation\ConverterAggregation\obj\Debug\net6.0\ConverterAggregation.dll
+C:\Users\bachi\Source\Repos\converter-aggregation\ConverterAggregation\obj\Debug\net6.0\refint\ConverterAggregation.dll
+C:\Users\bachi\Source\Repos\converter-aggregation\ConverterAggregation\obj\Debug\net6.0\ConverterAggregation.pdb
+C:\Users\bachi\Source\Repos\converter-aggregation\ConverterAggregation\obj\Debug\net6.0\ref\ConverterAggregation.dll

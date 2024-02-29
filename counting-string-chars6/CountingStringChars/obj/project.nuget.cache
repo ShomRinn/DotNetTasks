@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1XcRdrS3alvFcdMCMo+2AZ6UkidUmWzaPPrlQr+zKZxN+dcy1V6ZH+xg9K69b8PfG+jyz/36YEBodm4UZzukLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\counting-string-chars6\\CountingStringChars\\CountingStringChars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

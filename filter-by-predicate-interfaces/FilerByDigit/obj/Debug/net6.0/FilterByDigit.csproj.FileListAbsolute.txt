@@ -1,0 +1,30 @@
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\bin\Debug\net6.0\FilterByDigit.deps.json
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\bin\Debug\net6.0\FilterByDigit.dll
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\bin\Debug\net6.0\FilterByDigit.pdb
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\bin\Debug\net6.0\FilterByPredicate.dll
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\bin\Debug\net6.0\FilterByPredicate.pdb
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\obj\Debug\net6.0\FilterByDigit.csproj.AssemblyReference.cache
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\obj\Debug\net6.0\FilterByDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\obj\Debug\net6.0\FilterByDigit.AssemblyInfoInputs.cache
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\obj\Debug\net6.0\FilterByDigit.AssemblyInfo.cs
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\obj\Debug\net6.0\FilterByDigit.csproj.CoreCompileInputs.cache
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\obj\Debug\net6.0\FilterByDigit.csproj.CopyComplete
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\obj\Debug\net6.0\FilterByDigit.dll
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\obj\Debug\net6.0\refint\FilterByDigit.dll
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\obj\Debug\net6.0\FilterByDigit.pdb
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilerByDigit\obj\Debug\net6.0\ref\FilterByDigit.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\bin\Debug\net6.0\FilterByDigit.deps.json
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\bin\Debug\net6.0\FilterByDigit.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\bin\Debug\net6.0\FilterByDigit.pdb
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\bin\Debug\net6.0\FilterByPredicate.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\bin\Debug\net6.0\FilterByPredicate.pdb
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\obj\Debug\net6.0\FilterByDigit.csproj.AssemblyReference.cache
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\obj\Debug\net6.0\FilterByDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\obj\Debug\net6.0\FilterByDigit.AssemblyInfoInputs.cache
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\obj\Debug\net6.0\FilterByDigit.AssemblyInfo.cs
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\obj\Debug\net6.0\FilterByDigit.csproj.CoreCompileInputs.cache
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\obj\Debug\net6.0\FilterByDigit.csproj.CopyComplete
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\obj\Debug\net6.0\FilterByDigit.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\obj\Debug\net6.0\refint\FilterByDigit.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\obj\Debug\net6.0\FilterByDigit.pdb
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilerByDigit\obj\Debug\net6.0\ref\FilterByDigit.dll

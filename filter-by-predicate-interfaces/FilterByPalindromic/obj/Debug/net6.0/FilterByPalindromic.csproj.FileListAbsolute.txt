@@ -1,0 +1,30 @@
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\bin\Debug\net6.0\FilterByPalindromic.deps.json
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\bin\Debug\net6.0\FilterByPalindromic.dll
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\bin\Debug\net6.0\FilterByPalindromic.pdb
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\bin\Debug\net6.0\FilterByPredicate.dll
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\bin\Debug\net6.0\FilterByPredicate.pdb
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.csproj.AssemblyReference.cache
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.AssemblyInfoInputs.cache
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.AssemblyInfo.cs
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.csproj.CoreCompileInputs.cache
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.csproj.CopyComplete
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.dll
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\obj\Debug\net6.0\refint\FilterByPalindromic.dll
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.pdb
+C:\VisualStudio\2 Sem\Interfaces\Filter by predicate\FilterByPalindromic\obj\Debug\net6.0\ref\FilterByPalindromic.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\bin\Debug\net6.0\FilterByPalindromic.deps.json
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\bin\Debug\net6.0\FilterByPalindromic.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\bin\Debug\net6.0\FilterByPalindromic.pdb
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\bin\Debug\net6.0\FilterByPredicate.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\bin\Debug\net6.0\FilterByPredicate.pdb
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.csproj.AssemblyReference.cache
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.AssemblyInfoInputs.cache
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.AssemblyInfo.cs
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.csproj.CoreCompileInputs.cache
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.csproj.CopyComplete
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\obj\Debug\net6.0\refint\FilterByPalindromic.dll
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.pdb
+C:\Users\bachi\source\repos\filter-by-predicate-interfaces\FilterByPalindromic\obj\Debug\net6.0\ref\FilterByPalindromic.dll

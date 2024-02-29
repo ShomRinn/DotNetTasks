@@ -1,0 +1,15 @@
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\bin\Debug\net6.0\Predicates.deps.json
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\bin\Debug\net6.0\Predicates.dll
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\bin\Debug\net6.0\Predicates.pdb
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\bin\Debug\net6.0\PseudoEnumerableTask.dll
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\bin\Debug\net6.0\PseudoEnumerableTask.pdb
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\obj\Debug\net6.0\Predicates.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\obj\Debug\net6.0\Predicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\obj\Debug\net6.0\Predicates.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\obj\Debug\net6.0\Predicates.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\obj\Debug\net6.0\Predicates.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\obj\Debug\net6.0\Predicates.csproj.CopyComplete
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\obj\Debug\net6.0\Predicates.dll
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\obj\Debug\net6.0\refint\Predicates.dll
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\obj\Debug\net6.0\Predicates.pdb
+C:\Users\bachi\Source\Repos\pseudo-enumerable\Predicates\obj\Debug\net6.0\ref\Predicates.dll

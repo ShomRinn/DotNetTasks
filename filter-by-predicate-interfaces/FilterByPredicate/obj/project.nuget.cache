@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQvQppAG1PnZzD9ANGC987CyhJA9rziDHQeeOgi0wMlMRZlbYLC6m87a/O0G0V4fZXhBoInwbI7YVeGlq0vmWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\filter-by-predicate-interfaces\\FilterByPredicate\\FilterByPredicate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

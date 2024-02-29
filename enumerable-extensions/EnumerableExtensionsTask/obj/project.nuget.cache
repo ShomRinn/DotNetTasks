@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y0/ULoxZvoUmuMlwUXeW/BsRDDl8qaUK74B0EchKi+YAfhMu92mnZ29FYkoixFRP83jFNmahQP/UQ6J5kjqabA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\enumerable-extensions\\EnumerableExtensionsTask\\EnumerableExtensionsTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

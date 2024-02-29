@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\countdown\CustomTimer\bin\Debug\net6.0\CustomTimer.deps.json
+C:\Users\bachi\Source\Repos\countdown\CustomTimer\bin\Debug\net6.0\CustomTimer.dll
+C:\Users\bachi\Source\Repos\countdown\CustomTimer\bin\Debug\net6.0\CustomTimer.pdb
+C:\Users\bachi\Source\Repos\countdown\CustomTimer\obj\Debug\net6.0\CustomTimer.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\countdown\CustomTimer\obj\Debug\net6.0\CustomTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\countdown\CustomTimer\obj\Debug\net6.0\CustomTimer.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\countdown\CustomTimer\obj\Debug\net6.0\CustomTimer.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\countdown\CustomTimer\obj\Debug\net6.0\CustomTimer.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\countdown\CustomTimer\obj\Debug\net6.0\CustomTimer.dll
+C:\Users\bachi\Source\Repos\countdown\CustomTimer\obj\Debug\net6.0\refint\CustomTimer.dll
+C:\Users\bachi\Source\Repos\countdown\CustomTimer\obj\Debug\net6.0\CustomTimer.pdb
+C:\Users\bachi\Source\Repos\countdown\CustomTimer\obj\Debug\net6.0\ref\CustomTimer.dll

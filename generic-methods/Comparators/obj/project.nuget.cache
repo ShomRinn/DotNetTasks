@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LPdN1DdpGtdRXPoS5EiFnH3hONGhIJ7lN3ukMNFkPJ+Kv0J8qHBKhTYFUzTF0dGnCKOWgk6H09JtOdKswVjj3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\Source\\Repos\\generic-methods\\Comparators\\Comparators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\loop1-2\Loop1Tasks\bin\Debug\net6.0\Loop1Tasks.deps.json
+C:\Users\bachi\Source\Repos\loop1-2\Loop1Tasks\bin\Debug\net6.0\Loop1Tasks.dll
+C:\Users\bachi\Source\Repos\loop1-2\Loop1Tasks\bin\Debug\net6.0\Loop1Tasks.pdb
+C:\Users\bachi\Source\Repos\loop1-2\Loop1Tasks\obj\Debug\net6.0\Loop1Tasks.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\loop1-2\Loop1Tasks\obj\Debug\net6.0\Loop1Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\loop1-2\Loop1Tasks\obj\Debug\net6.0\Loop1Tasks.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\loop1-2\Loop1Tasks\obj\Debug\net6.0\Loop1Tasks.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\loop1-2\Loop1Tasks\obj\Debug\net6.0\Loop1Tasks.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\loop1-2\Loop1Tasks\obj\Debug\net6.0\Loop1Tasks.dll
+C:\Users\bachi\Source\Repos\loop1-2\Loop1Tasks\obj\Debug\net6.0\refint\Loop1Tasks.dll
+C:\Users\bachi\Source\Repos\loop1-2\Loop1Tasks\obj\Debug\net6.0\Loop1Tasks.pdb
+C:\Users\bachi\Source\Repos\loop1-2\Loop1Tasks\obj\Debug\net6.0\ref\Loop1Tasks.dll

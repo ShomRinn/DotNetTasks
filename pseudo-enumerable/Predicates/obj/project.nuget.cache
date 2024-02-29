@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ivKkNEwjfW4bH0fDezpddBtKDKVY6WOOVLVTjr/VSz82tBbbt3p7J5JsJZUca2vDwRflu+dME019nhDUEdgmtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\pseudo-enumerable\\Predicates\\Predicates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

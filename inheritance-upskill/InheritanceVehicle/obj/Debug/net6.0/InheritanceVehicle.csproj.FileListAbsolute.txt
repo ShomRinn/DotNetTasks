@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\inheritance-upskill\InheritanceVehicle\bin\Debug\net6.0\InheritanceVehicle.deps.json
+C:\Users\bachi\Source\Repos\inheritance-upskill\InheritanceVehicle\bin\Debug\net6.0\InheritanceVehicle.dll
+C:\Users\bachi\Source\Repos\inheritance-upskill\InheritanceVehicle\bin\Debug\net6.0\InheritanceVehicle.pdb
+C:\Users\bachi\Source\Repos\inheritance-upskill\InheritanceVehicle\obj\Debug\net6.0\InheritanceVehicle.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\inheritance-upskill\InheritanceVehicle\obj\Debug\net6.0\InheritanceVehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\inheritance-upskill\InheritanceVehicle\obj\Debug\net6.0\InheritanceVehicle.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\inheritance-upskill\InheritanceVehicle\obj\Debug\net6.0\InheritanceVehicle.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\inheritance-upskill\InheritanceVehicle\obj\Debug\net6.0\InheritanceVehicle.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\inheritance-upskill\InheritanceVehicle\obj\Debug\net6.0\InheritanceVehicle.dll
+C:\Users\bachi\Source\Repos\inheritance-upskill\InheritanceVehicle\obj\Debug\net6.0\refint\InheritanceVehicle.dll
+C:\Users\bachi\Source\Repos\inheritance-upskill\InheritanceVehicle\obj\Debug\net6.0\InheritanceVehicle.pdb
+C:\Users\bachi\Source\Repos\inheritance-upskill\InheritanceVehicle\obj\Debug\net6.0\ref\InheritanceVehicle.dll

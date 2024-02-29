@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fCWJGhY5Mc2svIiaGXlRvfnTOZv20lFsOe0dqXgcmtusHONFkQg0N4MOhhf8y4HcKKP1g/yPhduEWScJF6HxJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\Source\\Repos\\linq-custom-samples\\LinqSamples\\LinqSamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

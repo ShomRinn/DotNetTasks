@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\rgb-color-struct\RgbColorStruct\bin\Debug\net6.0\RgbColorStruct.deps.json
+C:\Users\bachi\Source\Repos\rgb-color-struct\RgbColorStruct\bin\Debug\net6.0\RgbColorStruct.dll
+C:\Users\bachi\Source\Repos\rgb-color-struct\RgbColorStruct\bin\Debug\net6.0\RgbColorStruct.pdb
+C:\Users\bachi\Source\Repos\rgb-color-struct\RgbColorStruct\obj\Debug\net6.0\RgbColorStruct.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\rgb-color-struct\RgbColorStruct\obj\Debug\net6.0\RgbColorStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\rgb-color-struct\RgbColorStruct\obj\Debug\net6.0\RgbColorStruct.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\rgb-color-struct\RgbColorStruct\obj\Debug\net6.0\RgbColorStruct.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\rgb-color-struct\RgbColorStruct\obj\Debug\net6.0\RgbColorStruct.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\rgb-color-struct\RgbColorStruct\obj\Debug\net6.0\RgbColorStruct.dll
+C:\Users\bachi\Source\Repos\rgb-color-struct\RgbColorStruct\obj\Debug\net6.0\refint\RgbColorStruct.dll
+C:\Users\bachi\Source\Repos\rgb-color-struct\RgbColorStruct\obj\Debug\net6.0\RgbColorStruct.pdb
+C:\Users\bachi\Source\Repos\rgb-color-struct\RgbColorStruct\obj\Debug\net6.0\ref\RgbColorStruct.dll

@@ -1,0 +1,12 @@
+C:\Users\bachi\source\repos\uml-design-basics\UmlDesignBasics\bin\Debug\net6.0\UmlDesignBasics.deps.json
+C:\Users\bachi\source\repos\uml-design-basics\UmlDesignBasics\bin\Debug\net6.0\UmlDesignBasics.dll
+C:\Users\bachi\source\repos\uml-design-basics\UmlDesignBasics\bin\Debug\net6.0\UmlDesignBasics.pdb
+C:\Users\bachi\source\repos\uml-design-basics\UmlDesignBasics\obj\Debug\net6.0\UmlDesignBasics.csproj.AssemblyReference.cache
+C:\Users\bachi\source\repos\uml-design-basics\UmlDesignBasics\obj\Debug\net6.0\UmlDesignBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\source\repos\uml-design-basics\UmlDesignBasics\obj\Debug\net6.0\UmlDesignBasics.AssemblyInfoInputs.cache
+C:\Users\bachi\source\repos\uml-design-basics\UmlDesignBasics\obj\Debug\net6.0\UmlDesignBasics.AssemblyInfo.cs
+C:\Users\bachi\source\repos\uml-design-basics\UmlDesignBasics\obj\Debug\net6.0\UmlDesignBasics.csproj.CoreCompileInputs.cache
+C:\Users\bachi\source\repos\uml-design-basics\UmlDesignBasics\obj\Debug\net6.0\UmlDesignBasics.dll
+C:\Users\bachi\source\repos\uml-design-basics\UmlDesignBasics\obj\Debug\net6.0\refint\UmlDesignBasics.dll
+C:\Users\bachi\source\repos\uml-design-basics\UmlDesignBasics\obj\Debug\net6.0\UmlDesignBasics.pdb
+C:\Users\bachi\source\repos\uml-design-basics\UmlDesignBasics\obj\Debug\net6.0\ref\UmlDesignBasics.dll

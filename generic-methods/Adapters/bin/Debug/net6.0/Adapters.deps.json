@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Adapters/1.0.0": {
+        "dependencies": {
+          "ContainsDigitPredicate": "1.0.0",
+          "GenericMethodsTask": "1.0.0",
+          "Ieee754FormatTask": "1.0.0",
+          "StyleCop.Analyzers": "1.1.118"
+        },
+        "runtime": {
+          "Adapters.dll": {}
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {},
+      "ContainsDigitPredicate/1.0.0": {
+        "runtime": {
+          "ContainsDigitPredicate.dll": {}
+        }
+      },
+      "GenericMethodsTask/1.0.0": {
+        "runtime": {
+          "GenericMethodsTask.dll": {}
+        }
+      },
+      "Ieee754FormatTask/1.0.0": {
+        "runtime": {
+          "Ieee754FormatTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adapters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StyleCop.Analyzers/1.1.118": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
+      "path": "stylecop.analyzers/1.1.118",
+      "hashPath": "stylecop.analyzers.1.1.118.nupkg.sha512"
+    },
+    "ContainsDigitPredicate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GenericMethodsTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ieee754FormatTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

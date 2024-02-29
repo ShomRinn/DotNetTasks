@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerableTask", "EnumerableTask\EnumerableTask.csproj", "{E700E29E-9660-473F-8C94-BBCB1A1C7A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerableTask.Tests", "EnumerableTask.Tests\EnumerableTask.Tests.csproj", "{765CAB28-2B13-4EA6-ADCB-690401214568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E700E29E-9660-473F-8C94-BBCB1A1C7A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E700E29E-9660-473F-8C94-BBCB1A1C7A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E700E29E-9660-473F-8C94-BBCB1A1C7A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E700E29E-9660-473F-8C94-BBCB1A1C7A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765CAB28-2B13-4EA6-ADCB-690401214568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765CAB28-2B13-4EA6-ADCB-690401214568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765CAB28-2B13-4EA6-ADCB-690401214568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765CAB28-2B13-4EA6-ADCB-690401214568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

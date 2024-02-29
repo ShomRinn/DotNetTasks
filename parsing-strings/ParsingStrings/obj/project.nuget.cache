@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQM+2TnzowvYgAlHabmrLMbLQjUZGrdhzKe5b8SxNQyfUFEK0wD+JCerpjUmpeqkpF/IV+4DpWEyyHL3jv3xrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bachi\\source\\repos\\parsing-strings\\ParsingStrings\\ParsingStrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\bachi\Source\Repos\looking-for-chars6\LookingForChars\bin\Debug\net6.0\LookingForChars.deps.json
+C:\Users\bachi\Source\Repos\looking-for-chars6\LookingForChars\bin\Debug\net6.0\LookingForChars.dll
+C:\Users\bachi\Source\Repos\looking-for-chars6\LookingForChars\bin\Debug\net6.0\LookingForChars.pdb
+C:\Users\bachi\Source\Repos\looking-for-chars6\LookingForChars\obj\Debug\net6.0\LookingForChars.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\looking-for-chars6\LookingForChars\obj\Debug\net6.0\LookingForChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\looking-for-chars6\LookingForChars\obj\Debug\net6.0\LookingForChars.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\looking-for-chars6\LookingForChars\obj\Debug\net6.0\LookingForChars.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\looking-for-chars6\LookingForChars\obj\Debug\net6.0\LookingForChars.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\looking-for-chars6\LookingForChars\obj\Debug\net6.0\LookingForChars.dll
+C:\Users\bachi\Source\Repos\looking-for-chars6\LookingForChars\obj\Debug\net6.0\refint\LookingForChars.dll
+C:\Users\bachi\Source\Repos\looking-for-chars6\LookingForChars\obj\Debug\net6.0\LookingForChars.pdb
+C:\Users\bachi\Source\Repos\looking-for-chars6\LookingForChars\obj\Debug\net6.0\ref\LookingForChars.dll

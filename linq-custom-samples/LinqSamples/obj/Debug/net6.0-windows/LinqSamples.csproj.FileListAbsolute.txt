@@ -1,0 +1,17 @@
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\bin\Debug\net6.0-windows\LinqSamples.exe
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\bin\Debug\net6.0-windows\LinqSamples.deps.json
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\bin\Debug\net6.0-windows\LinqSamples.runtimeconfig.json
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\bin\Debug\net6.0-windows\LinqSamples.dll
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\bin\Debug\net6.0-windows\LinqSamples.pdb
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.csproj.AssemblyReference.cache
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.SampleForm.resources
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.csproj.GenerateResource.cache
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.AssemblyInfoInputs.cache
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.AssemblyInfo.cs
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.csproj.CoreCompileInputs.cache
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.dll
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\refint\LinqSamples.dll
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.pdb
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.genruntimeconfig.cache
+C:\Users\bachi\Source\Repos\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\ref\LinqSamples.dll
